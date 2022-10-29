@@ -1,1 +1,1 @@
-# projects-2023
+# BioHackathon MENA 2023 Projects
