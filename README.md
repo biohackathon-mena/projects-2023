@@ -27,3 +27,8 @@ ontology-based mining annotations from literature
 * **[Project 10](10/README.md)**: Reproducing Machine Learning and AI methods using FAIR Workbench
 
 * **[Project 11](11/README.md)**: Diabetes Atlas for MENA
+
+* **[Project 12](12/README.md)**: Bacteria sensing in wastewater treatment processes using transformer models
+
+
+* **[Project 13](13/README.md)**: Document similarity of articles in the bio-medical domain using multilabel-classification and ontology embeddings.
