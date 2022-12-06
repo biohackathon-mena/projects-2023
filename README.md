@@ -32,3 +32,6 @@ ontology-based mining annotations from literature
 
 
 * **[Project 13](13/README.md)**: Document similarity of articles in the bio-medical domain using multilabel-classification and ontology embeddings.
+
+
+* **[Project 15](15/README.md)**: Genome workflows and resources for the MENA population
