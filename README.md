@@ -36,3 +36,5 @@ ontology-based mining annotations from literature
 * **[Project 14](14/README.md)**: The ELIXIR::GA4GH Cloud - Global Engagement
 
 * **[Project 15](15/README.md)**: Genome workflows and resources for the MENA population
+
+* **[Project 16](16/README.md)**: Ontology-based synthetic data generation for informatics in health and biomedicine
