@@ -8,8 +8,6 @@ Ontology-based synthetic data generation for informatics in health and biomedici
 
 ## Theme:
 
-* workflows
-
 ## Team leader:
 
  * Name: Tilman Hinnerichs
