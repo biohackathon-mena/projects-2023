@@ -33,5 +33,6 @@ ontology-based mining annotations from literature
 
 * **[Project 13](13/README.md)**: Document similarity of articles in the bio-medical domain using multilabel-classification and ontology embeddings.
 
+* **[Project 14](14/README.md)**: The ELIXIR::GA4GH Cloud - Global Engagement
 
 * **[Project 15](15/README.md)**: Genome workflows and resources for the MENA population
