@@ -37,4 +37,4 @@ ontology-based mining annotations from literature
 
 * **[Project 15](15/README.md)**: Genome workflows and resources for the MENA population
 
-* **[Project 16](16/README.md)**: Ontology-based synthetic data generation for informatics in health and biomedicine
+* **[Project 16](16/README.md)**: Metadata for Science with (bio)schemas
