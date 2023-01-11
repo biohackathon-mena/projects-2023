@@ -28,7 +28,7 @@ The last version of mOWL is 0.1.1. The new version is under development. For thi
 
 All of our milestones for the next mOWL version can be found at: https://github.com/bio-ontology-research-group/mowl/milestones
 
-mOWL documentation is available at \url{https://mowl.readthedocs.io/en/latest/index.html}
+mOWL documentation is available a https://mowl.readthedocs.io/en/latest/index.html
                              
 ## Theme:
 
