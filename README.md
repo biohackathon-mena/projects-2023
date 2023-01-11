@@ -30,7 +30,6 @@ ontology-based mining annotations from literature
 
 * **[Project 12](12/README.md)**: Bacteria sensing in wastewater treatment processes using transformer models
 
-
 * **[Project 13](13/README.md)**: Document similarity of articles in the bio-medical domain using multilabel-classification and ontology embeddings.
 
 * **[Project 14](14/README.md)**: The ELIXIR::GA4GH Cloud - Global Engagement
@@ -40,3 +39,10 @@ ontology-based mining annotations from literature
 * **[Project 16](16/README.md)**: Metadata for Science with (bio)schemas
 
 * **[Project 17](17/README.md)**: Creating a FAIR and Harmonized Ontology for Diseases and Phenotypes
+
+* **[Project 18](18/README.md)**: Cloud-native data analysis workflow execution service and quality assessment of published workflows
+
+* **[Project 19](19/README.md)**: Agile textmining with PubAnnotation/PubDictionaries, and its application to MENA Bioinformatics
+
+* **[Project 20](20/README.md)**: mOWL: Python library for machine learning with biomedical ontologies
+

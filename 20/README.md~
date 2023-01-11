@@ -1,0 +1,49 @@
+# Project 18
+
+## Title: 
+
+mOWL: Python library for machine learning with biomedical ontologies
+
+## Description:
+
+mOWL is a Python library designed to work with machine learning
+methods that use ontologies.  Ontologies contain formal and structured
+information about a domain. In bioinformatics, the information
+contained in ontologies has been widely used in machine learning to
+improve tasks such as protein-fuction or gene-disease association
+predictions.  mOWL is a library than standardizes the use and
+manipulation of ontologies and provides funcionalities to ease their
+integration in machine learning methods.  Currently, the mOWL package
+is divided into 4 components:
+
+1. **Ontology management**: normalization and reasoning, interfacing with the OWL API and automated reasoners
+
+2. **Ontology transformation**: including methods for projecting
+ontologies into graphs, text corpora, or other formats used as
+precursor to machine learning;
+
+3. **Embedding generation**: by interfacing with the knowledge graph
+embedding library PyKEEN and other approaches
+implemented in Python; and
+
+4. **Embedding post-processing**: including axiom inference, node
+classification, evaluation, and visualization.
+
+
+The last version of mOWL is 0.1.1 and it is under constant development. For this hackathon, we have a list of potential areas in which to work on:
+
+* **Create an inference module**: This component consists on computing scores based
+
+
+documentation is available at \url{https://mowl.readthedocs.io/en/latest/index.html}
+                             
+## Theme:
+
+bioinformatics software, machine learning and AI methods
+
+## Team leader:
+
+ * Name: Fernando Zhapa-Camacho
+ * Contact: fernando.zhapacamacho@kaust.edu.sa
+ 
+
