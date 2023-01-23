@@ -25,8 +25,8 @@ The objectives of this Bio-Hackathon are:
 2. CEMO model assessment
 3. Comparison with/of COVID-19 ontology models: CIDO, GENEPIO, COVOC, ....
 4. FAIR metrics: measure of the strength of an ontological model (I, R) in relation to the application goal(s)
-  - define strength
-  - define metrics
+   1. define strength
+   2. define metrics
 5. Identify the action items and goals for the year 2023. 
 
 
@@ -35,7 +35,7 @@ The objectives of this Bio-Hackathon are:
 
 ## Team leader:
 
- * Name: Fernando Zhapa-Camacho
- * Contact: fernando.zhapacamacho@kaust.edu.sa
+ * Co-lead: Asiyah Lin and Sarah Alghamdi
+ * Contact: linikujp@gmail.com, sarah.alghamdi.1@kaust.edu.sa
  
 
