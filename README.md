@@ -46,3 +46,5 @@ ontology-based mining annotations from literature
 
 * **[Project 20](20/README.md)**: mOWL: Python library for machine learning with biomedical ontologies
 
+* **[Project 21](21/README.md)**: Harmonizing COVID-19 Epidemiology Ontologies
+

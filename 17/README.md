@@ -41,7 +41,7 @@ The objectives for the hackathon includes, but not limited to:
 
 ## Team leader:
 
- * Name: Asiyah Lin
- * Contact: linikujp@gmail.com
+ * Co-lead: Asiyah Lin and Sarah Alghamdi
+ * Contact: linikujp@gmail.com, sarah.alghamdi.1@kaust.edu.sa
  
 
