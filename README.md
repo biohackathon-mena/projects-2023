@@ -48,3 +48,5 @@ ontology-based mining annotations from literature
 
 * **[Project 21](21/README.md)**: Harmonizing COVID-19 Epidemiology Ontologies
 
+* **[Project 22](22/README.md)**: Predicting the risk of food contamination using machine learning models
+
