@@ -2,7 +2,7 @@
 
 ## Title: 
 
-Predicting the risk of food contamination using machine learning models 
+Predicting the risk of food contamination using machine learning models
 
 ## Description:
 
