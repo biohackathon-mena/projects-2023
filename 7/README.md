@@ -76,7 +76,7 @@ Medicinal Plants for Anti-neurodegenerative diseases in West Africa, Journal of 
 [4] Şenay Kafkas, Robert Hoehndorf, Ontology based text mining of gene-phenotype associations: application to candidate gene prediction, Database, Volume 2019, 2019, baz019, https://doi.org/10.1093/database/baz019n
 
 ## Reporting
-- notes on: [Gdoc])()
+- notes on: [Gdoc]()
 - BioHackRxiv manuscript: [BioHackrxiv-metabolinet](https://github.com/bio-ontology-research-group/metabolitenet/tree/master/biohackrxiv)
 
 ## Theme:
