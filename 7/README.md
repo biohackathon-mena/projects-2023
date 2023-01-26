@@ -80,13 +80,34 @@ Medicinal Plants for Anti-neurodegenerative diseases in West Africa, Journal of 
 - BioHackRxiv manuscript: [BioHackrxiv-metabolinet](https://github.com/bio-ontology-research-group/metabolitenet/tree/master/biohackrxiv)
 
 ## Theme:
-
 data and text mining (with focus on Middle East)
 
 ## Team leader:
  * Name: Núria Queralt Rosinach
  * Contact: nqueralt.r@gmail.com
- 
-## Submission number:
 
+## Dream team:
+ * Sarah Alghamdi
+ * Şenay Kafkas
+
+## Expected outcomes:
+ * MetaboliteNET annotation dataset
+ * Evaluation analysis & metrics
+   * Validity
+   * Applicability
+ * Knowledge graph
+ * Application workflows
+ * Collaborate with and learn from biohackers of the MENA region!
+ * BioHackrxiv paper
+
+
+## Expertise needed:
+ * Text mining
+ * Ontologies, Semantic Web 
+ * Graph databases (Neo4J)
+ * Graph-based ML
+ * Bioinformatics
+ * Biologists, Medicinal chemists
+
+## Submission number:
 29
