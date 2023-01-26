@@ -100,7 +100,6 @@ data and text mining (with focus on Middle East)
  * Collaborate with and learn from biohackers of the MENA region!
  * BioHackrxiv paper
 
-
 ## Expertise needed:
  * Text mining
  * Ontologies, Semantic Web 
