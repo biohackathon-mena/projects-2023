@@ -75,7 +75,7 @@ Medicinal Plants for Anti-neurodegenerative diseases in West Africa, Journal of 
 [3] C. Jansen, J.D. Baker, E. Kodaira, L. Ang, A.J. Bacani, J.T. Aldan, L.M.N. Shimoda, M. Salameh, A.L. Small-Howard, A.J. Stokes, H. Turner, C.N. Adra, Medicine in motion: Opportunities, challenges and data analytics-based solutions for traditional medicine integration into western medical practice, Journal of Ethnopharmacology, Volume 267, 2021, https://doi.org/10.1016/j.jep.2020.113477.
 [4] Şenay Kafkas, Robert Hoehndorf, Ontology based text mining of gene-phenotype associations: application to candidate gene prediction, Database, Volume 2019, 2019, baz019, https://doi.org/10.1093/database/baz019n
 
-## Reporting
+## Reporting:
 - notes on: [Gdoc]()
 - BioHackRxiv manuscript: [BioHackrxiv-metabolinet](https://github.com/bio-ontology-research-group/metabolitenet/tree/master/biohackrxiv)
 
