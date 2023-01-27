@@ -81,7 +81,7 @@ data and text mining (with focus on Middle East)
 
 ## Team leader:
  * Name: Núria Queralt Rosinach
- * Contact: nqueralt.r@gmail.com
+ * Contact: n.queralt_rosinach@lumc.nl
  
 ## Submission number:
 
