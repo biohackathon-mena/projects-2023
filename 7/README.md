@@ -71,12 +71,18 @@ global prevalence of dementia in 2019 and forecasted prevalence in
 Lancet, 7, 2, e105-e125, February 01, 2022,
 https://doi.org/10.1016/S2468-2667(21)00249-8 
 
-[2] Emmanuel Ayodeji
-Ayeni, Yuzhou Gong, Hao Yuan, Yikao Hu, Xiaolin Bai, Xun Liao,
-Medicinal Plants for Anti-neurodegen
+[2] Emmanuel Ayodeji Ayeni, Yuzhou Gong, Hao Yuan, Yikao Hu, Xiaolin Bai, Xun Liao,
+Medicinal Plants for Anti-neurodegenerative diseases in West Africa, Journal of Ethnopharmacology, 285, 2022, 114468, https://doi.org/10.1016/j.jep.2021.114468.
+
+[3] C. Jansen, J.D. Baker, E. Kodaira, L. Ang, A.J. Bacani, J.T. Aldan, L.M.N. Shimoda, M. Salameh, A.L. Small-Howard, A.J. Stokes, H. Turner, C.N. Adra, Medicine in motion: Opportunities, challenges and data analytics-based solutions for traditional medicine integration into western medical practice, Journal of Ethnopharmacology, Volume 267, 2021, https://doi.org/10.1016/j.jep.2020.113477.
+
+[4] Şenay Kafkas, Robert Hoehndorf, Ontology based text mining of gene-phenotype associations: application to candidate gene prediction, Database, Volume 2019, 2019, baz019, https://doi.org/10.1093/database/baz019n
+
+## Reporting:
+- notes on: [Gdoc]()
+- BioHackRxiv manuscript: [BioHackrxiv-metabolinet](https://github.com/bio-ontology-research-group/metabolitenet/tree/master/biohackrxiv)
 
 ## Theme:
-
 data and text mining (with focus on Middle East)
 
 ## Team leader:
@@ -85,4 +91,27 @@ data and text mining (with focus on Middle East)
  
 ## Submission number:
 
+## Dream team:
+ * Sarah Alghamdi
+ * Şenay Kafkas
+
+## Expected outcomes:
+ * MetaboliteNET annotation dataset
+ * Evaluation analysis & metrics
+   * Validity
+   * Applicability
+ * Knowledge graph
+ * Application workflows
+ * Collaborate with and learn from biohackers of the MENA region!
+ * BioHackrxiv paper
+
+## Expertise needed:
+ * Text mining
+ * Ontologies, Semantic Web 
+ * Graph databases (Neo4J)
+ * Graph-based ML
+ * Bioinformatics
+ * Biologists, Medicinal chemists
+
+## Submission number:
 29
