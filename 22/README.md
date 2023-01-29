@@ -12,7 +12,7 @@ Maintaining a continuously sufficient supply of safe food products is integral i
 
 ## Team leader:
 
- * Name: Turki A. Al-Thunian 
- * Contact: Tathunian@sfda.gov.sa
+ * Name: Faisal S. Almutairi
+ 
  
 
