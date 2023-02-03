@@ -8,7 +8,7 @@
 (MD) simulations with documentation that supports RTL languages and
 non-Latin scripts.
 
-* **[Project 3](3/README.md)**: Embedding ontologies
+* **[Project 3](3/README.md)**: Onto-CGANS: Ontology-based synthetic data generation
 
 * **[Project 4](4/README.md)**: End to end framework to enable analyzing data from DNA sequencing
 experiments utilizing AI
