@@ -16,9 +16,11 @@ During BioHackathon MENA 2023, the goal of Project 19 is to find a good applicat
 - developing an annotation
 - exporting the annotation into RDF, and make it searchable.
 
+[Introduction slides](https://docs.google.com/presentation/d/1_qatz8PFwlg3aPcpXx3jOf27_-FdtZCs-nUSJZOV_d4/edit?usp=sharing)
+
 ## Theme:
 
-Textmining, literature annotation, dictionary
+Textmining, literature annotation, dictionary, human-in-the-loop
 
 ## Team leader:
 
