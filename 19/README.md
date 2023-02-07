@@ -25,3 +25,5 @@ Textmining, literature annotation, dictionary
  * Name:  Jin-Dong Kim
  * Contact: jdkim@dbcls.rois.ac.jp
  
+## Progress Note
+[Link to Google Doc](https://docs.google.com/document/d/1ws_zBjbrsvmiyQMlVd6MXchclQHLCYVdQ2l1bCaSRrM/edit?usp=sharing)
