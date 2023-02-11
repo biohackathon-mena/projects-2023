@@ -2,7 +2,8 @@
 
 ## Title:
 
-Embedding ontologies 
+Onto-CGANS: Ontology-based synthetic data generation
+ 
 
 ## Description:
 
